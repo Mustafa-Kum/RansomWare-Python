@@ -1,1 +1,3 @@
-# RansomWare-Python
+# Usage
+
+#!/usr/bin/env/ python3
